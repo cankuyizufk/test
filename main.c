@@ -2,8 +2,6 @@
 
 int main
 {
-    int A = 0;
-
     return 0;
     
 }
